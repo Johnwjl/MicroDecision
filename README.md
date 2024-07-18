@@ -51,4 +51,3 @@ pnpm type-check
 ```sh
 pnpm test
 ```
->>>>>>> 8522557 (feat: add vue-mini project)

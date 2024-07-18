@@ -3,15 +3,45 @@
 }
 
 .logo {
-  width: 400px;
-  height: 400px;
-  margin-top: 120px;
+  width: 150rpx;
+  height: 150rpx;
+  margin-top: 120rpx;
 }
 
 .greeting {
   color: #2c3e50;
-  font-size: 64px;
+  font-size: 64rpx;
   font-weight: bold;
+  margin-top: 30rpx;
+}
+
+.slogon {
+  color: #2c3e50;
+  font-size: 28rpx;
+  font-weight: lighter;
+  margin-top: 30rpx;
+}
+.description {
+  color: #2c3e50;
+  font-size: 28rpx;
+  font-weight: lighter;
+  margin-top: 120rpx;
+}
+
+.description_2 {
+  color: #2c3e50;
+  font-size: 32rpx;
+  font-weight: lighter;
+  margin-top: 30rpx;
+}
+
+.button {
+  width: 60%;
+  height: 80rpx;
+  line-height: 80rpx;
+  font-size: 36rpx;
+  font-weight: bold;
+  margin-top: 60rpx;
 }
 
 @media (prefers-color-scheme: dark) {
